@@ -1,2 +1,2 @@
 # Euromaster
-Repo to store the code and files for the Euromaster game
+Please dont mind the interesting commit messages. We we're very excited to get the game finally to work ;)
